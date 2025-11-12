@@ -34,25 +34,21 @@ Atualmente, estou aprimorando meus conhecimentos em **Kotlin**, **Jetpack Compos
 
 ### 📊 Estatísticas
 
-<div align="center">
-
-<a href="https://github.com/cgiestas">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cgiestas&show_icons=true&theme=android-dark&hide_border=true&count_private=true" />
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cgiestas&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cgiestas&layout=compact&langs_count=8&theme=cobalt"/>
 </a>
-<a href="https://github.com/cgiestas">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgiestas&layout=compact&theme=android-dark&hide_border=true" />
-</a>
-
-</div>
+</p>
 
 ---
 
 ### 🚀 Projetos em destaque
 
-🔹 [**NomeDoApp**](https://github.com/cgiestas/NomeDoApp) – Aplicativo Android com foco em X (Jetpack Compose, MVVM, etc.)  
-🔹 [**OutroProjeto**](https://github.com/cgiestas/OutroProjeto) – Projeto prático de Y, explorando Z.  
+🔹 [**placeholder**](https://github.com/cgiestas/NomeDoApp) – placeholder 
+🔹 [**placeholder**](https://github.com/cgiestas/OutroProjeto) – placeholder  
 
-*(Substitua pelos repositórios que quiser destacar)*
+*(WIP)*
 
 ---
 
@@ -61,8 +57,8 @@ Atualmente, estou aprimorando meus conhecimentos em **Kotlin**, **Jetpack Compos
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/cgiestas)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/seuusuario)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/christianegiestas)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christianegiestas@gmail.com)
 
 </div>
 
