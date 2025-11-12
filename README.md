@@ -1,7 +1,7 @@
 <!-- Banner animado -->
 <div align="center">
   <!-- Bugdroid flutuante -->
-  <img src="https://raw.githubusercontent.com/CGiestas/CGiestas/main/assets/bugdroid-floating.svg" width="120" alt="Bugdroid animado" />
+  <img src="https://raw.githubusercontent.com/CGiestas/CGiestas/main/bugdroid_nobg.gif" width="300" alt="Bugdroid animado" />
 
   <h1>Olá, eu sou a Christiane 👋</h1>
   <h3>Desenvolvedora Android</h3>
