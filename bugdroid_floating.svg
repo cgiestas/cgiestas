@@ -1,0 +1,13 @@
+<svg width="120" height="120" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes float {
+      0% { transform: translateY(0); }
+      50% { transform: translateY(-10px); }
+      100% { transform: translateY(0); }
+    }
+    svg {
+      animation: float 2.5s ease-in-out infinite;
+    }
+  </style>
+  <path fill="#3DDC84" d="M256 32c-17.7 0-32 14.3-32 32v32h64V64c0-17.7-14.3-32-32-32zM96 160c-17.7 0-32 14.3-32 32v128c0 70.7 57.3 128 128 128h128c70.7 0 128-57.3 128-128V192c0-17.7-14.3-32-32-32H96z"/>
+</svg>
