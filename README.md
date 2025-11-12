@@ -45,8 +45,7 @@ Atualmente, estou aprimorando meus conhecimentos em **Kotlin**, **Jetpack Compos
 
 ### 🚀 Projetos em destaque
 
-🔹 [**placeholder**](https://github.com/cgiestas/NomeDoApp) – placeholder 
-🔹 [**placeholder**](https://github.com/cgiestas/OutroProjeto) – placeholder  
+🔹 [**nyrk - Teclado Android**](https://github.com/cgiestas/nyrk) – Teclado em nível de sistema visando a privacidade e customização.
 
 *(WIP)*
 
